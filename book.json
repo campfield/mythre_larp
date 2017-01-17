@@ -1,0 +1,15 @@
+{
+
+    "plugins": [
+        "creativecommons",
+        "-fontsettngs",
+        "-sharing"],
+    "title": "Mythre LARP Handbook",
+    "pluginsConfig": {},
+    "output.name": "ebook",
+    "output.format": "pdf",
+    "author": "Michael P. Campfield",
+    "headerTemplate": null,
+    "tags": [ "gaming", "LARP", "roleplay", "youth", "costumes", "family" ],
+    "description": "A set of boffer LARP rules designed for non-complexity and ease of play."
+}
